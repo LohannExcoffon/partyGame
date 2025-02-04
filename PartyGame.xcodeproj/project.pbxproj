@@ -18,6 +18,7 @@
 		0A83A06C2D5010FC00C0DF7A /* JoinGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A83A06B2D5010FC00C0DF7A /* JoinGameView.swift */; };
 		0A83A06E2D50110700C0DF7A /* CreateGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A83A06D2D50110700C0DF7A /* CreateGameView.swift */; };
 		0A83A0702D50111800C0DF7A /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A83A06F2D50111800C0DF7A /* GameView.swift */; };
+		0A83A0722D52B80F00C0DF7A /* RulesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A83A0712D52B80F00C0DF7A /* RulesView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		0A83A06B2D5010FC00C0DF7A /* JoinGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JoinGameView.swift; sourceTree = "<group>"; };
 		0A83A06D2D50110700C0DF7A /* CreateGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateGameView.swift; sourceTree = "<group>"; };
 		0A83A06F2D50111800C0DF7A /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
+		0A83A0712D52B80F00C0DF7A /* RulesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RulesView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				0A83A06B2D5010FC00C0DF7A /* JoinGameView.swift */,
 				0A83A06D2D50110700C0DF7A /* CreateGameView.swift */,
 				0A83A06F2D50111800C0DF7A /* GameView.swift */,
+				0A83A0712D52B80F00C0DF7A /* RulesView.swift */,
 				0A83A0432D500BD600C0DF7A /* Assets.xcassets */,
 				0A83A0452D500BD600C0DF7A /* Preview Content */,
 			);
@@ -269,6 +272,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A83A0722D52B80F00C0DF7A /* RulesView.swift in Sources */,
 				0A83A06A2D50105900C0DF7A /* HomeView.swift in Sources */,
 				0A83A0422D500BD500C0DF7A /* ContentView.swift in Sources */,
 				0A83A06C2D5010FC00C0DF7A /* JoinGameView.swift in Sources */,

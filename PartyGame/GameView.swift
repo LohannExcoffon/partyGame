@@ -17,7 +17,7 @@ struct GameView: View {
 
             VStack {
                 HStack {
-                    Image("pointingIcon")
+                    Image("fingerRaisedIcon")
                         .resizable()
                         .scaledToFit()
                         .frame(width: 40, height: 40)
