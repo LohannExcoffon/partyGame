@@ -9,7 +9,21 @@ import SwiftUI
 
 struct JoinGameView: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        
+        ZStack {
+            // Colorful background
+            LinearGradient(gradient: Gradient(colors: [.blue, .red, .purple]), startPoint: .top, endPoint: .bottom)
+                .ignoresSafeArea(edges: .all)
+            
+            VStack {
+                
+            }
+
+            }
+
+            
+                
+            
     }
 }
 
